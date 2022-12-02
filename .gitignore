@@ -1,0 +1,7 @@
+input/*
+vegyvenv
+vegyvenv/*
+venv/*
+.idea/*
+vegetable_classification_model
+vegetable_classification_model.h5
